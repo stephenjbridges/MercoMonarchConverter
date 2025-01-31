@@ -1,5 +1,5 @@
 # MercoMonarchConverter
-A simple console tool to convert .csv files downloaded from Merco Credit Union to the expected format for Monarch budgeting software.
+A simple C# console tool to convert .csv files downloaded from Merco Credit Union to the expected format for Monarch budgeting software.
 
 How to use:
 1. Download your transactions from Merco's credit card website, and optionally rename the file.
